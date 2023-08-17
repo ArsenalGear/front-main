@@ -1,0 +1,3 @@
+[submodule "src/front-comps"]
+	path = src/front-components
+	url = ../../ArsenalGear/front-components
