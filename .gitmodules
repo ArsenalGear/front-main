@@ -1,3 +1,6 @@
 [submodule "src/front-components"]
 	path = src/front-components
-	url = git@github.com:ArsenalGear/front-components.git
+	url = ../../ArsenalGear/front-components.git
+[submodule "front-components/components"]
+	path = front-components/components
+	url = https://github.com/ArsenalGear/front-components.git
