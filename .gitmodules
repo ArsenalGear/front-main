@@ -7,3 +7,6 @@
 [submodule "src/front-components/components"]
 	path = src/front-components/components
 	url = https://github.com/ArsenalGear/front-components.git
+[submodule "src/comps"]
+	path = src/comps
+	url = https://github.com/ArsenalGear/front-components.git
