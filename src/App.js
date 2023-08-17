@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import {BaseButton} from "./components/ui-components/BaseButton";
+// import {BaseButton} from "./components/ui-components/BaseButton";
+import { BaseButton } from 'front-components/components/ui-components/BaseButton';
 
 function App() {
     return (
